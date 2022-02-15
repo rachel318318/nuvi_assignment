@@ -1,2 +1,5 @@
-color_image.npy
-depth_image.npy
+**/.ipynb_checkpoints
+**/__pycache__
+**/._**
+._**
+.DS_**
